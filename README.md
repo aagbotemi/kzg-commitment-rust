@@ -19,5 +19,6 @@ cargo build
 ```
 ## Usage
 To run this code, run:
-
+```
 cargo run
+```
