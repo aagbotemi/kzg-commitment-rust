@@ -9,7 +9,7 @@ The KZG polynomial commitment scheme consists of four steps:
 
 ## Clone this repository:
 ```
-git clone https://github.com/aagbotemi/diffie-hellman-ec.git
+git clone https://github.com/aagbotemi/kzg-commitment-rust.git
 ```
 Get into the project directory
 
